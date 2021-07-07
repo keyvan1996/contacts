@@ -13,7 +13,8 @@ body {
 }
 
 p{
-  margin: 30px;
+  margin-left: 25%;
+  margin-right: 25%;
 }
 
 #userPhoto {
@@ -21,6 +22,8 @@ p{
   height: 100px;
   display: block;
   margin: 10px auto;
+  margin-bottom: 20px;
+  margin-top: 100px;
   border-radius: 50%;
 }
 
