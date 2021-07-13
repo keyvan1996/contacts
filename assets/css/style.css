@@ -84,6 +84,11 @@ i.fa {
   border: none;
 }
 
+#exportPDF {
+  align-content: center;
+  margin-left: 27%;
+}
+
 @keyframes glow {
   0% {
     border-color: transparent;
